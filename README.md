@@ -27,7 +27,7 @@ streamlit run QA_streamlit.py
 
 ## Problem Statement 2: Generate Marketing Content
 - In the script `GMC_streamlit.py`, enter your OpenAI API key in line 8.
-- - We also have alternate flask app api `GMC_flask.py` for the same.
+- We also have alternate flask app api `GMC_flask.py` for the same.
 - To run the Generate Marketing Content application, execute the following command:
 
 ```bash
