@@ -2,29 +2,31 @@
 
 ## Installation
 
-1. Clone the repository:
+1. **Clone the repository:**
 
 ```bash
 git clone https://github.com/ahish2911/GenerativeAI-yarnit.git
 ```
 
-2. Install requirements.txt (Python version >= 3.9)
+2. **Create a virtual environment:**
+
+3. **Install dependencies (Python version >= 3.9):**
 
 ```bash
 pip install -r requirements.txt
 ```
 
 ## Problem Statement 1: Webpage Question Answering
-
-To run the Webpage Question Answering application, execute the following command:
+- In the script `QA_streamlit.py`, enter your OpenAI API key in line 15.
+- To run the Webpage Question Answering application, execute the following command:
 
 ```bash
 streamlit run QA_streamlit.py
 ```
 
 ## Problem Statement 2: Generate Marketing Content
-
-To run the Generate Marketing Content application, execute the following command:
+- In the script `GMC_streamlit.py`, enter your OpenAI API key in line 8.
+- To run the Generate Marketing Content application, execute the following command:
 
 ```bash
 streamlit run GMC_streamlit.py
