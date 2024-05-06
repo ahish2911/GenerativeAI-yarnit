@@ -2,7 +2,13 @@
 
 ## Installation
 
-1. Install requirements.txt (Python version >= 3.9)
+1. Clone the repository:
+
+```bash
+git clone https://github.com/ahish2911/GenerativeAI-yarnit.git
+```
+
+2. Install requirements.txt (Python version >= 3.9)
 
 ```bash
 pip install -r requirements.txt
@@ -22,4 +28,7 @@ To run the Generate Marketing Content application, execute the following command
 
 ```bash
 streamlit run GMC_streamlit.py
+```
+
+Make sure to specify the desired format when running the application.
 ```
