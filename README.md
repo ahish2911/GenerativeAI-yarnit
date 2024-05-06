@@ -29,6 +29,3 @@ To run the Generate Marketing Content application, execute the following command
 ```bash
 streamlit run GMC_streamlit.py
 ```
-
-Make sure to specify the desired format when running the application.
-```
