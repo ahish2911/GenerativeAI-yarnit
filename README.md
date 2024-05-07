@@ -10,7 +10,7 @@ git clone https://github.com/ahish2911/GenerativeAI-yarnit.git
 ```bash
 cd  GenerativeAI-yarnit
 ```
-2. **Create a virtual environment:**
+2. **Create and activate  virtual environment:**
 
 3. **Install dependencies (Python version >= 3.9):**
 
